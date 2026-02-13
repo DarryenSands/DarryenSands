@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarryenSands
 - 👀 I’m interested in Computer Science, Mathematics, and Physics
-- 🌱 I’m currently learning Applied and Industrial Mathematics and Physics
+- 🌱 I’m currently learning Artificial Intelligence Analysis, Design, and Algorithms.
 - 💞️ I’m looking to collaborate on things that I find interesting
 - 📫 How to reach me darryensands@gmail.com
 
